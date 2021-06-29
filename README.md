@@ -1,8 +1,11 @@
 # Protomolecule
 
-Font based on the text seen in **'The Expanse'** show for things like credits and captions. Big thanks goes to [/u/xeow](https://www.reddit.com/u/xeow) who originally identified [DIN Pro as the base font](https://old.reddit.com/r/TheExpanse/comments/61mipk/the_expanse_alphabet/).
+![Preview](Protomolecule-preview.png)
+
+This is a font based on the text seen in [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_%28TV_series%29) for things like credits and captions. Big thanks goes to [/u/xeow](https://www.reddit.com/u/xeow) on Reddit who originally [identified](https://old.reddit.com/r/TheExpanse/comments/61mipk/the_expanse_alphabet/) [DIN Pro](https://www.cufonfonts.com/font/dinpro) as the base font.
 
 If you see any mistakes or problems, let me know and I'm happy to correct them.
+
 
 ## Legal Notice
 
